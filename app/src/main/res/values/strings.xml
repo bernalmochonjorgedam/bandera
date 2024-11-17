@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Banderas</string>
+    <string name="recargar">Recargar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="editar">Editar</string>
+    <string name="imagen_de_la_autonom_a">Imagen de la Autonomía</string>
+    <string name="comunidades_autonomas">Comunidades Autonomas</string>
+    <string name="autonom_a">Autonomía</string>
+    <string name="editar_">Editar</string>
+    <string name="eliminar_">Eliminar</string>
+    <string name="nombre_de_la_autonom_a">Nombre de la Autonomía</string>
+    <string name="guardar">Guardar</string>
+</resources>
